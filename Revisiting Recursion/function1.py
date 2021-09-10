@@ -16,4 +16,6 @@ print(c)
 print(d)
 
 c = c + 2
+d = d + 2
 print(c)
+print(d)
